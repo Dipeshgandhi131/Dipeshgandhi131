@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dipeshgandhi131/Bigdata_projects](https://github.com/Dipeshgandhi131/Bigdata_projects)
+- 📫 How to reach me **dipesgandhi1300@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
